@@ -2,7 +2,9 @@
 <h1>Fibonacci Sequence</h1>
 
 
-====
+---
+
+
 Description:
 
   This project implements an API that generates the Fibonacci sequence using NestJS.
@@ -23,7 +25,9 @@ Tools/Technologies Used:
 
   TypeScript
 
-====
+
+---
+
 
 Source Code:
       
@@ -47,7 +51,10 @@ Source Code:
       }
       
 
-====
+
+
+---
+
 
 API Documentation:
 
