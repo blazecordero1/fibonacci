@@ -58,7 +58,9 @@ Source Code:
 
 API Documentation:
 
-Endpoint: http://localhost:3000/fibonacciMethod: GETParameters:
+    Endpoint: http://localhost:3000/fibonacciMethod: 
+
+GETParameters:
 
 n (integer, required) - The number of Fibonacci terms to generate.
 
